@@ -5,4 +5,5 @@ Desenvolvido com foco em segurança, boas práticas e uma interface limpa e func
 
 ---
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e68ee1b3-5105-488b-988f-ad04317e9565)
+
